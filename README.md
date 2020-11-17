@@ -2,8 +2,8 @@
 author: Joonas Puumala
 
 osa0
-|-
 osa1
+|-kurssitiedot
 |-
 osa2
 |-
